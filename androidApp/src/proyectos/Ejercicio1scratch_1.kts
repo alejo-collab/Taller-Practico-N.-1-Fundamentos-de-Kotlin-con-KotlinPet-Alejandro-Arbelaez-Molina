@@ -1,5 +1,5 @@
 //Datos del canino
-val Nombre: String = "Firulais Jose"
+val Nombre: String = "Firulais Jose Alberto"
 var Edad: Int = 1
 val Sexo: Char ='M'
 
